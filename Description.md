@@ -10,13 +10,13 @@
 ## Italian version
 
 ### ESERCIZIO 
-  Vogliamo contare il numero di cammini con al pi`u k svolte che partono dalla
+  Vogliamo contare il numero di cammini con al più k svolte che partono dalla
   cella in alto a sinistra e raggiungono la cella in basso a destra in una matrice
   n x n.
-  Nel corso di un cammino dalla generica cella (i, j) ci si pu`o spostare nella cella
+  Nel corso di un cammino dalla generica cella (i, j) ci si può spostare nella cella
   in basso (vale a dire la cella (i + i, j)) o nella cella a destra (vale a dire la cella
   (i, j + 1)).
-  Un movimento `e considerato una svolta se ci si stava spostando lungo una riga
+  Un movimento è considerato una svolta se ci si stava spostando lungo una riga
   e poi ci si sposta lungo una colonna o viceversa.
   Progettare un algoritmo che risolve il problema in tempo O(n2k).
-  Ad esempio: per n =4e k = 2 la risposta `e 6
+  Ad esempio: per n =4e k = 2 la risposta è 6
