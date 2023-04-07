@@ -8,8 +8,8 @@
   Design an algorithm that solves the problem in O (n2k) time.
   For example: for n = 4 and k = 2 the answer is 6
   
-  ## More details
-  For more information, consult the present "Description" file. I'm sorry but the documentation and comments in the code were written in Italian.
+## More details
+I'm sorry but the Java documentation and comments in the code were written in Italian.
 
   
   
